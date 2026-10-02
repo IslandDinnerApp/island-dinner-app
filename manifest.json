@@ -1,7 +1,6 @@
-json
 {
   "name": "Island Dinner Music Café",
-  "short_name": "Island Dinner",
+  "short_name": "Cena sull'Isola",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#080808",
